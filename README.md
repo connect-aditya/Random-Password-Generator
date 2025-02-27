@@ -9,7 +9,7 @@ This repository contains a **Random Password Generator** application built with 
 - Responsive user interface designed with **TailwindCSS**.
 
 ## Screenshot
-![Password Generator UI](screenshot.png)
+![Password Generator UI](https://github.com/connect-aditya/Random-Password-Generator/blob/d9adbc150c1523cd04cc6af6ed6815dc22993d3f/src/assets/Screenshot%202025-02-27%20220118.png)
 
 ## Usage
 - Adjust the range slider to set the desired password length.
